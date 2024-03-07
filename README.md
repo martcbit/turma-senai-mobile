@@ -9,7 +9,7 @@
 3. Execute o seguinte comando para alterar o URL do remote para o novo repositório:
 
 ```bash
-git remote set-url origin https://github.com/SENAI-Teresina/turma-senai-mobile.git
+git remote set-url origin https://github.com/martcbit/turma-senai-mobile.git
 ```
 
 ### Passo 2: Criar Diretório Pessoal e Pastas de Aula
@@ -71,7 +71,7 @@ git init
 1. Execute o seguinte comando para adicionar o novo repositório remoto:
 
 ```bash
-git remote add origin https://github.com/SENAI-Teresina/turma-senai-mobile.git
+git remote add origin https://github.com/martcbit/turma-senai-mobile.git
 ```
 
 ### Passo 3: Criar Diretório Pessoal e Pastas de Aula
